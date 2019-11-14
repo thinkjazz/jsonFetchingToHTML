@@ -1,0 +1,19 @@
+{
+  "name": "jsonFetchingToHTML",
+  "version": "1.0.0",
+  "description": "Server + json fetcher + render json data to html <ul> </ul>",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "json-ajax-html"
+  },
+  "keywords": [
+    "json ajax to list html"
+  ],
+  "author": "thinkjazz",
+  "license": "ISC"
+}
