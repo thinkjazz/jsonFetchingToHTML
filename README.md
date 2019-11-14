@@ -15,8 +15,8 @@
 Данные обязательно распарить и положить в ul>li
 Каждую строку в отдельны li элемент
 
-node server
-npm start
+# node server
+# npm start
 
 
 
